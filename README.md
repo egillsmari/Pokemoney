@@ -2,7 +2,10 @@
 Identify pokemons and view their stats with the Pokemoney App!
 
 ## How it works
-You either take an image of a pokemon card or upload one. We use the GCP vision platform to identify to card and return the information to you!
+You either take an image of a pokemon card or upload one.
+We use the GCP vision platform to identify to card and return the information to you!
+
+
 <img src="./pokemoney.gif" alt="pokemoney" width="240"/>
 
 
